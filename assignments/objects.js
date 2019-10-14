@@ -17,7 +17,7 @@ const example = {
   gender: "F",
 }
 
-// Write your intern objects here:
+//  Write your intern objects here:
 
 
 // ==== Challenge 2: Reading Object Data ==== 
