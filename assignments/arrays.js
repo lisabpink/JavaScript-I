@@ -88,7 +88,7 @@ for (let i = 0; i < inventory.length; i++) {
     car33.push(inventory[i]);
   }
 }
-
+//is this a stretch?
 console.log(
   `Car 33 is a ${car33[0].car_year} ${car33[0].car_make} ${car33[0].car_model}.`,
 );
@@ -151,7 +151,6 @@ let oldCars = [];
 
 // ==== Challenge 6 ====
 // A buyer is interested in seeing only BMW and Audi cars within the inventory. Return an array that only contains BMW and Audi cars.  Once you have populated the BMWAndAudi array, use JSON.stringify() to show the results of the array in the console.
-
 
 
 let BMWAndAudi = [];

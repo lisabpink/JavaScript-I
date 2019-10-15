@@ -15,19 +15,19 @@
 
 **Follow these steps for completing your project.**
 
-- [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's Repo). **Please don't merge your own pull request**
-- [ ] Add your team lead as a reviewer on the pull-request
-- [ ] Your team lead will count the project as complete by merging the branch back into master.
+- [ DONE ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's Repo). **Please don't merge your own pull request**
+- [ DONE ] Add your team lead as a reviewer on the pull-request
+- [ DONE ] Your team lead will count the project as complete by merging the branch back into master.
 
 ## Assignment Description
 
 - Complete all the exercises as described inside each assignment file.
-- Use `console.log()` statements to check to see if your code does what it is supposed to do.
-- To test your `console.log()` statements open up the index.html file found in the assignments folder and use the developer tools to view the console.
+- Use `console.log()` statements to check to see if your code does what it is supposed to do. [ DONE ]
+- To test your `console.log()` statements open up the index.html file found in the assignments folder and use the developer tools to view the console. [ DONE ]
 
 **Note:**You could also run `node /assignments/<fileName>` and see what prints in your terminal.
 
-- Once you finish the exercises in each file, commit your code, and push it to your fork.
+- Once you finish the exercises in each file, commit your code, and push it to your fork. 
 
 ### Objects [ DONE ]
 
